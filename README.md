@@ -10,8 +10,6 @@ I love building real-time intelligent systems and improving my technical & probl
 
 🤖 Interested in AI, ML, Deep Learning & Computer Vision
 
-📊 Working on real-world projects (Smart Exam Monitoring System, Prediction Models, etc.)
-
 🛠️ Improving my skills in Data Science, SQL, Python, and AI tools
 
 💼 Looking for internships & opportunities in AI/Software development
@@ -21,7 +19,7 @@ I love building real-time intelligent systems and improving my technical & probl
 🛠️ Skills & Technologies
 Programming Languages
 Python
-C
+R(basics)
 Java
 SQL
 HTML
@@ -32,8 +30,8 @@ VS Code
 Git
 GitHub
 Jupyter Notebook
-PyCharm (optional)
-streamlit(optional)
+PyCharm
+streamlit
 
 AI & Data Science
 Machine Learning Models
@@ -45,29 +43,20 @@ Data Preprocessing
 EDA (Exploratory Data Analysis)
 data visualization
 
-🧠 Highlighted Project
-🔍 AI-Based Smart Exam Monitoring System
+🧠 Highlighted Projects
+AI-Based Smart Exam Monitoring System
+Titanic-Dataset
+google-pay-expense-sharing
+Event-Management-HTML-Project
 
-A real-time AI system that:
-
-Detects multiple faces
-
-Monitors eye & head movement
-
-Identifies mobile phones
-
-Tracks suspicious activity
-
-Sends live cheating alerts
-
-Tech Used: Python, OpenCV, Mediapipe, ML Models
-👉 (Add GitHub link once you upload your project)
 
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanishaarun&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VanishaarunV7&theme=tokyonight" /> </p>
+
 🌐 Connect With Me
 linkedin:www.linkedin.com/in/vanishaarun7105
 email:vanishaaruncse23@gmail.com
+portfolio:https://vanisha.lovable.app/
 
 ✨ Fun Fact
 
