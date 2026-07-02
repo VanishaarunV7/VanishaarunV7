@@ -49,10 +49,6 @@ Titanic-Dataset
 google-pay-expense-sharing
 Event-Management-HTML-Project
 
-
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanishaarun&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VanishaarunV7&theme=tokyonight" /> </p>
-
 🌐 Connect With Me
 linkedin:www.linkedin.com/in/vanishaarun7105
 email:vanishaaruncse23@gmail.com
