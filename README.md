@@ -62,4 +62,4 @@ portfolio:https://vanisha.lovable.app/
 
 I love converting ideas into working prototypes 😄
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my GitHub profile ⭐
