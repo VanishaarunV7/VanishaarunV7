@@ -1,5 +1,5 @@
 🌟 Hi, I'm Vanisha Arun!
-💻 CSE 3rd Year Student | 🤖 AI & ML Enthusiast | 📊 Data Science Learner
+💻 CSE Final Year Student | 🤖 AI & ML Enthusiast | 📊 Data Science Learner
 
 I'm a passionate Computer Science Engineering 3rd year student exploring the world of Artificial Intelligence, Machine Learning, Data Science, and Smart Automation systems.
 I love building real-time intelligent systems and improving my technical & problem-solving skills.
